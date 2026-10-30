@@ -1,0 +1,13 @@
+# Binaries and archives
+*.tar.gz
+prime-cli
+bin/prime-cli
+
+# Logs
+*.log
+
+# OS & workspace
+.DS_Store
+.freebuff/
+.env
+.env*.local
